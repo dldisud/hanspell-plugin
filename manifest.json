@@ -1,0 +1,10 @@
+{
+    "id": "3895lyh@gmail.com",
+    "name": "hanspell",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Obsidian에서 한글 문법을 검사합니다.",
+    "author": "이야녕",
+    "authorUrl": "https://github.com/9beach/hanspell.git",
+    "isDesktopOnly": true
+  }
