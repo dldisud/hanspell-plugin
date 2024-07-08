@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-hanspell-plugin",
+  "version": "1.0.0",
+  "description": "Obsidian에서 한글 문법을 검사합니다.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "hanspell"
+  ],
+  "author": "이야녕",
+  "license": "MIT",
+  "dependencies": {
+    "hanspell": "^0.9.7"
+  }
+}
